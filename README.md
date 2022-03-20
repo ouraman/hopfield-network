@@ -1,2 +1,3 @@
 # hopfield-network
 An introduction to Hopfield networks
+Hopfield networks, suggested by John Hopfield 1982, are fully connected graphs with N nodes,in their most classical form they are represnted by N dimensional vectors with 0 or 1 componants. Here we are interested in their application in memory retrieval and unsupervised classification. Memories are members of a subset of the configuration space and they are stored as the links between nodes which take values 1 or -1. You can see the explicit definitions and formalism in the notebook hopnet_intro. The first result is presented as well in this jupyter notebook for N=4 case.
